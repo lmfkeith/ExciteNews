@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9be364bf9a75193e9aa067ffa8a1196b719d59f3">
+        <dex dex="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_239b40a58c7d79775e72a750ed671cf1f27a2f0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b336b65b1433db396eaff4419e0a02d7c6d885dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_f54d1d5ff062a9e3503079ade5c1cf6dadc0456d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a4e2169e81df7201a412bd9703dc22a81385a345\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\ExciteNews\app\libs\jsoup-1.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="28e5375920a4f6e73123e45ab6ad3b8bc93b0869">
+        <dex dex="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsoup-1.9.2_1d6109473466dcf0821258cc0ce5c488e96eda30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_a03aea5bef46810618c2c2ee84e31eae3ae681de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_06f243b33674ddaaf22c0250f6a9593a39064af9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_1055693de860180bda4856fcdca17fe544fbd3fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_a45405e82f9eb237681c9cf66b4eb54d7b88c9f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e1177bed9fc9e54b967ef2a496cc2c34c8eb0307\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_593380a09dddeb55c42445ff9dc91c4520fe8025\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0aab861a2436d21c691c5471d729799756b466f6">
+        <dex dex="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_89874e6904e0e7c4598f62e67f1d83a1ebebf28a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="375e9e5bd3f893b6d72f16a78b1b16b277c75af1">
+        <dex dex="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6ba0254ea1c1236cd126409dd0fb0e841d9b0029\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_7c3d357d956cfaec639ca14206f9c70880455ae8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_cae6d95528e1a8f3956368d16bcbd450108aee1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_f730cd3ca6dbfbbd2faaa35df2ece17622cc22cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_e495d5728abaf18ab3b633f12ae52acf5df36f4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_74ec711196f33a5165fa86d3451e9dcd66717f80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_b6798ac26814940f6e4edcbf8883407c78136844\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_dbb162c037c3fa47a31eace7273cb66fa475b5a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_1d356e220c2126b986b2f4471bd2859f45d9309f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_189869b053a5eafa7e9ae0471077f23862f8859a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_79271cbfd47f292718a5e096a66268b8f791024b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d153bec39873232f9c0f3112ff6630e1e06e5f2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_946624b37f54c6a5928f79226f6db9fc686e7403\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\GitHubAndroidProjects\ExciteNews\app\libs\jsoup-1.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="28e5375920a4f6e73123e45ab6ad3b8bc93b0869">
+        <dex dex="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsoup-1.9.2_38837f132d983d97d8c44a3600acbccef4aee391\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_377995990356337d176800103392f5e0a55faa3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_b08b17f39007b059391db6d3505be6eb8b67c016\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_d045cafa0a419daef34d1e85751d18fb8a2c48d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1b8c878797b07d23496508131f82b53737b85968\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_30f4f522eb2501fd7ff541fe10c4b4b6040defd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_511f69ffe0637dee6caeee05067c7417630ff11c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1a5e38f0077179522fa85c3dda8b5712822bd70d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_91084de6484f41bbbce0a4c5dd3e29b9e6c6196d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_98cb7dae74b230c346efa8610285bec03b8b6fca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_f67a8d3e409e86811647e34dd4a399d564ea0de8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_7f9297584003b66b53cb4e46428444de147f5aab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_c4314380b4c99468a547d5e8bbda33b832a6fe09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2ae9835da985680cc60cc9763268ed3ca1fb0219">
+        <dex dex="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_24a4827b27968be2618ba2836c4820604948c01b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\Android\GitHubAndroidProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_ac493bfb5c349dc59830637ccf895769429ec6e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android\AndroidStudioProjects\ExciteNews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_7da7c7873c54abffdf545533633af6ed97d75233\classes.dex" />
+    </item>
+
+</items>
